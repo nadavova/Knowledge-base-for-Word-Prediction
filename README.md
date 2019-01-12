@@ -1,5 +1,3 @@
-Knowledge base for Word Prediction
-knowledge-base for Hebrew word-prediction system, based on Google 3-Gram Hebrew dataset, using Amazon Elastic Map-Reduce (EMR).
 
 Introduction
 We will generate a knowledge-base for Hebrew word-prediction system, based on Google 3-Gram Hebrew dataset, using Amazon Elastic Map-Reduce (EMR). The produced knowledge-base indicates for a each pair of words the probability of their possible next words. In addition, We will examine the quality of the algorithm according to statistic measures and manual analysis.
